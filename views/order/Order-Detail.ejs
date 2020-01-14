@@ -1,0 +1,74 @@
+<!-- page 4 -->
+<!-- page 3 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="/scripts/bootstrap.min.css" />
+
+    <script src="/scripts/jquery-3.3.1.min.js"></script>
+    <script src="/scripts/popper.min.js"></script>
+    
+    <script src="/scripts/bootstrap.min.js"></script>
+    <style>
+      body{
+        
+        background-color: darkred;
+      }
+      .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+ 
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+              <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top">
+                
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="/meals/addmeal">Add-Meals</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/meals/list">Menu</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/order/orders">List-Order</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/order/details">Details-Order</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+        </div>
+        <br>
+        <br>
+        
+         <br>
+         <br>
+         <br>
+          
+         <div class="container-fluid text-center">
+            <form action="/Order/details" method="post">
+              <div class="row slideanim slide">
+                 
+                <div class="alert alert-warning" role="alert" name="dorder">
+                    
+                  </div>
+              
+             </div>
+             <div class="row slideanim slide">
+              <textarea class="form-control bg-light" rows="5"  name="text" placeholder="Order notes "></textarea>
+             </div>
+            </form>
+         </div>
+    </div>
+  </body>
+</html>

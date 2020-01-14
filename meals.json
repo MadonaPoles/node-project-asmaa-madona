@@ -1,0 +1,80 @@
+{ 
+    "_id" : ObjectId("5e1c9174b1197a17180c18a5"), 
+    "imge" : ".\\imges\\بيتزا-خفيفة-وشهية-للدايت.jpg", 
+    "name" : "Light and delicious diet pizza", 
+    "discription" : "Of course, you love pizza, and you try to prevent yourself from it because of the diet ... But you don't care. We will offer with some today a very easy way for pizza with few calories ... ", 
+    "price" : NumberInt(200), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c91e6b1197a17180c18a6"), 
+    "imge" : ".\\imges\\البيتزا-بالطريقة-الايطالية.png", 
+    "name" : "The pizza the Italian way", 
+    "discription" : "Many of us love pizza, especially Italian\r\nBut we try to make her not exactly her costume\r\nToday I brought your Italian pizza to you", 
+    "price" : NumberInt(100), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c922eb1197a17180c18a7"), 
+    "imge" : ".\\imges\\أسياخ-الكباب-المشوي-بالصوص-الحار.jpg", 
+    "name" : "Grilled kebab skewers with hot sauce", 
+    "discription" : "Always have beautiful nights and parties between friends and family\r\nToday I serve you kebabs in a very beautiful way and tastes delicious\r\nSuitable for dinner dinners ...", 
+    "price" : NumberInt(300), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c9277b1197a17180c18a8"), 
+    "imge" : ".\\imges\\26.jpg", 
+    "name" : "Noodles with meat and vegetables", 
+    "discription" : "Ingredients:\r\n500 g noodles / 2 teaspoons of peanut oil / 1 tablespoon of fresh ginger sprinkle / 1 clove of garlic powder / 150 g of broccoli / 1 medium red bell pepper, cut into slices / 150 g of peas / 80 g of bean sprouts / 300 g of Beef chops ingredients\r\n* Sauce:\r\n1/3 cup of light soy sauce / 1 tablespoon of sweet chili sauce / 1 tablespoon of honey", 
+    "price" : NumberInt(50), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c92c2b1197a17180c18a9"), 
+    "imge" : ".\\imges\\ساندويتشات-الشاورما-اللذيذة-768x512.jpg", 
+    "name" : "Delicious shawarma sandwiches", 
+    "discription" : "Many of us love deli food\r\nAnd takeaway … I offer you\r\nDelicious and loved sandwiches ... delicious shawarma sandwiches", 
+    "price" : NumberInt(50), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c9310b1197a17180c18aa"), 
+    "imge" : ".\\imges\\صدور-الدجاج-المشوية-بالتتبيلة-السرية.jpg", 
+    "name" : "Grilled chicken breasts with secret dressing", 
+    "discription" : "Oh peace on the taste of marinated and grilled chicken  … it tastes more than ok ... you can serve it as a quick and easy meal ..in summer we like to eat everything that is quick and light", 
+    "price" : NumberInt(100), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c935eb1197a17180c18ab"), 
+    "imge" : ".\\imges\\2.jpg", 
+    "name" : "new Extra Cheesy Alfredo pizza ", 
+    "discription" : "It's our cheesiest pizza ever--the new Extra Cheesy Alfredo pizza on our also new garlic Parmesan crust. It has a creamy, 2-cheese Alfredo sauce, a 4-cheese blend & a crust with Parmesan-Romano cheese baked in.", 
+    "price" : NumberInt(150), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c93b9b1197a17180c18ac"), 
+    "imge" : ".\\imges\\77.jpg", 
+    "name" : "Chicken pizza with mushroom and mozzarella cheese", 
+    "discription" : "Ingredients:\r\nDough ingredients / 3 cups of flour / 1 tablespoon of yeast / a pinch of salt / a pinch of sugar // 1/4 cup of vegetable oil / or olive oil / 1 cup of warm water\r\nIngredients for pizza\r\n2 teaspoon tomato sauce (pre-prepared with mushroom and salami pizza) / 1 cup barbecue sauce / 2 sliced chicken breast seasoned with salt and black pepper / 1 sliced onion sliced", 
+    "price" : NumberInt(250), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c93feb1197a17180c18ad"), 
+    "imge" : ".\\imges\\201.png", 
+    "name" : "Hawawshi", 
+    "discription" : "The method of making Hawawshi is considered one of the easiest popular dishes, and it is one of the most famous and most delicious fast foods from the Egyptian cuisine, and it is characterized by being easy and delicious in taste as it is saturated and is considered an integrated meal, and it can be served with green salad and tahini authority, and below we will present you with more than one way to provide Hawawshi ..", 
+    "price" : NumberInt(150), 
+    "__v" : NumberInt(0)
+},
+{ 
+    "_id" : ObjectId("5e1c9460b1197a17180c18ae"), 
+    "imge" : ".\\imges\\superdeluxe_owgtql.png", 
+    "name" : "Two Super Deluxe “Double Deluxe” with fries", 
+    "discription" : "means lettuce, tomato and raw onion. (pickles too, though they're on most burgers deluxe or not.) If the onions are grilled, there is usually a note to that effect", 
+    "price" : NumberInt(120), 
+    "__v" : NumberInt(0)
+}
